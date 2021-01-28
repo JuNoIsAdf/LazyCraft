@@ -1,0 +1,2 @@
+# LazyCraft
+/register
